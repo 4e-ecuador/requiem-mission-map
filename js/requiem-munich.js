@@ -13,6 +13,7 @@ const markers = L.markerClusterGroup({disableClusteringAtZoom: 14})
 map.addLayer(markers)
 
 $.get('missions.json', {some_var: ''}, function (data) {
+    $('#mission-counter').html(data.length)
     $(data).each(function () {
         let marker =
             new L.Marker(
@@ -28,18 +29,8 @@ $.get('missions.json', {some_var: ''}, function (data) {
     })
 }, 'json')
 
-
-//initialize Leaflet List Markers
-// var list = new L.Control.ListMarkers({layer: markers, itemIcon: null});
-//
-// list.on('item-click', function (e) {
-//     e.layer.openPopup()
-// });
-//
-// map.addControl(list);
-
 // Logo
-var mapControlsContainer = document.getElementsByClassName("leaflet-control")[0];
-var logoContainer = document.getElementById("logoContainer");
+const mapControlsContainer = document.getElementsByClassName("leaflet-control")[0];
 
-mapControlsContainer.appendChild(logoContainer);
+mapControlsContainer.appendChild(document.getElementById("logoContainer"));
+mapControlsContainer.appendChild(document.getElementById("mission-counter"));
