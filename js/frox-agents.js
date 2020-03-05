@@ -16,12 +16,12 @@ $.get('missions.json', {some_var: ''}, function (data) {
     $(data).each(function () {
         let marker =
             new L.Marker(
-                new L.LatLng(this.lat, this.lng), {title: this.name}
+                new L.LatLng(this.lat, this.lng), {title: this.city}
             )
 
         marker.bindPopup(
-            this.name +'<br>'
-            +'<a href="https://ingressmosaik.com/mosaic/'+this.imid+'">IM</a>'
+            this.city +', ' + this.country + '<br>'
+            +'<a href="https://ingressmosaik.com/mosaic/'+this.imid+'">IM</a> by '+ this.creator
         )
 
         markers.addLayer(marker)
