@@ -1,3 +1,30 @@
+/*
+
+Search:
+^.*([0-9-]{1,3}\.[0-9]+),([-0-9]{1,4}\.[0-9]+) ([-A-Z\(\)üö ]+)[ ]+([A-Z]+)[ ]+https://ingressmosaik.com/mosaic/([0-9]+)[ ]+([a-z0-9]+)$
+
+Replace:
+{\n "lat": "\1",\n"lng": "\2",\n"city":"\3",\n"country":"\4",\n"imid":\5,\n"creator":"\6"\n },
+
+*/
+
+/* AMER ***
+
+https://www.google.com/maps/dir//49.183854,-122.848645 Surrey  Canada  https://ingressmosaik.com/mosaic/54229  nifffer
+https://www.google.com/maps/dir//0.870556,-79.847929 Atacames    Ecuador https://ingressmosaik.com/mosaic/54077  nikp3h
+https://www.google.com/maps/dir//-0.273806,-79.44936 El Carmen   Ecuador https://ingressmosaik.com/mosaic/54164  nikp3h
+https://www.google.com/maps/dir//0.956909,-79.65131 Esmeraldas  Ecuador https://ingressmosaik.com/mosaic/54117  nikp3h
+https://www.google.com/maps/dir//-0.957761,-80.714912 Manta   Ecuador https://ingressmosaik.com/mosaic/54166  AleksEspi
+https://www.google.com/maps/dir//46.819092,-100.778694 Bismarck (North Dakota) USA https://ingressmosaik.com/mosaic/54222  localgeek
+https://www.google.com/maps/dir//26.881696,-80.106984 Palm Beach Gardens  USA https://ingressmosaik.com/mosaic/54133  porkobyte
+https://www.google.com/maps/dir//37.791271,-122.38933 San Francisco   USA https://ingressmosaik.com/mosaic/54152  Claudija
+
+**/
+
+
+
+
+
 /** 
 
 48.294029,14.292398 Linz  Austria https://ingressmosaik.com/mosaic/54206  geozukunft

@@ -446,5 +446,69 @@
     "country": "Ukraine",
     "imid": 54253,
     "creator": "IskanderLocator"
+  },
+  {
+    "lat": "9.183854",
+    "lng": "-122.848645",
+    "city": "Surrey",
+    "country": "Canada",
+    "imid": 54229,
+    "creator": "nifffer"
+  },
+  {
+    "lat": "0.870556",
+    "lng": "-79.847929",
+    "city": "Atacames",
+    "country": "Ecuador",
+    "imid": 54077,
+    "creator": "nikp3h"
+  },
+  {
+    "lat": "0.273806",
+    "lng": "-79.44936",
+    "city": "El Carmen",
+    "country": "Ecuador",
+    "imid": 54164,
+    "creator": "nikp3h"
+  },
+  {
+    "lat": "0.956909",
+    "lng": "-79.65131",
+    "city": "Esmeraldas",
+    "country": "Ecuador",
+    "imid": 54117,
+    "creator": "nikp3h"
+  },
+  {
+    "lat": "0.957761",
+    "lng": "-80.714912",
+    "city": "Manta",
+    "country": "Ecuador",
+    "imid": 54166,
+    "creator": "AleksEspi"
+  },
+  {
+    "lat": "6.819092",
+    "lng": "-100.778694",
+    "city": "Bismarck (North Dakota)",
+    "country": "USA",
+    "imid": 54222,
+    "creator": "localgeek"
+  },
+  {
+    "lat": "6.881696",
+    "lng": "-80.106984",
+    "city": "Palm Beach Gardens",
+    "country": "USA",
+    "imid": 54133,
+    "creator": "porkobyte"
+  },
+  {
+    "lat": "7.791271",
+    "lng": "-122.38933",
+    "city": "San Francisco",
+    "country": "USA",
+    "imid": 54152,
+    "creator": "Claudija"
   }
 ]
