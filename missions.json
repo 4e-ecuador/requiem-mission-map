@@ -558,5 +558,13 @@
     "country": "France",
     "imid": 54285,
     "creator": "Leynou"
+  },
+  {
+    "lat": "-23.4256",
+    "lng": "-51.936734",
+    "city": "Maringá",
+    "country": "Brazil",
+    "imid": 54283,
+    "creator": "GiJoeRise"
   }
 ]
