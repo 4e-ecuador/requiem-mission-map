@@ -510,5 +510,37 @@
     "country": "USA",
     "imid": 54152,
     "creator": "Claudija"
+  },
+  {
+    "lat": "7.46551",
+    "lng": "153.019108",
+    "city": "Brisbane",
+    "country": "Australia",
+    "imid": 54249,
+    "creator": "Lluminaire"
+  },
+  {
+    "lat": "4.693121",
+    "lng": "135.501174",
+    "city": "Osaka",
+    "country": "Japan",
+    "imid": 54267,
+    "creator": "tarmn3"
+  },
+  {
+    "lat": "3.058986",
+    "lng": "141.340645",
+    "city": "Sapporo",
+    "country": "Japan",
+    "imid": 54258,
+    "creator": "yukiatom"
+  },
+  {
+    "lat": "5.894062",
+    "lng": "139.633969",
+    "city": "Saitama",
+    "country": "Japan",
+    "imid": 54266,
+    "creator": "chousan07"
   }
 ]
