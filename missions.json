@@ -560,11 +560,75 @@
     "creator": "Leynou"
   },
   {
+    "lat": "0.00764",
+    "lng": "-79.398505",
+    "city": "Flor de Valle",
+    "country": "Ecuador",
+    "imid": 54288,
+    "creator": "nikp3h"
+  },
+  {
+    "lat": "42.938766",
+    "lng": "-78.888056",
+    "city": "Buffalo",
+    "country": "USA",
+    "imid": 54290,
+    "creator": "DisasterMaker89"
+  },
+  {
+    "lat": "41.853578",
+    "lng": "-87.652462",
+    "city": "Chicago",
+    "country": "USA",
+    "imid": 54291,
+    "creator": "DisasterMaker89"
+  },
+    {
+    "lat": "45.254921",
+    "lng": "19.843664",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "imid": 54293,
+    "creator": "brunopuric"
+  },
+  {
     "lat": "-23.4256",
     "lng": "-51.936734",
     "city": "Maringá",
     "country": "Brazil",
     "imid": 54283,
     "creator": "GiJoeRise"
+  },
+  {
+    "lat": "47.522631",
+    "lng": "8.537618",
+    "city": "Bülach",
+    "country": "Switzerland",
+    "imid": 54294,
+    "creator": "Shogun79"
+  },
+  {
+    "lat": "30.703443",
+    "lng": "76.781464",
+    "city": "Chandigarh",
+    "country": "India",
+    "imid": 54295,
+    "creator": "CommandoRana"
+  },
+  {
+    "lat": "28.470661",
+    "lng": "77.063088",
+    "city": "Gurugram",
+    "country": "India",
+    "imid": 54296,
+    "creator": "bhands"
+  },
+  {
+    "lat": "50.63754",
+    "lng": "3.07162",
+    "city": "Lille",
+    "country": "France",
+    "imid": 54297,
+    "creator": "MarcoSunbass"
   }
 ]
