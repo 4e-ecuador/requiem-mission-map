@@ -448,7 +448,7 @@
     "creator": "IskanderLocator"
   },
   {
-    "lat": "9.183854",
+    "lat": "49.183854",
     "lng": "-122.848645",
     "city": "Surrey",
     "country": "Canada",
@@ -464,7 +464,7 @@
     "creator": "nikp3h"
   },
   {
-    "lat": "0.273806",
+    "lat": "-0.273806",
     "lng": "-79.44936",
     "city": "El Carmen",
     "country": "Ecuador",
@@ -480,7 +480,7 @@
     "creator": "nikp3h"
   },
   {
-    "lat": "0.957761",
+    "lat": "-0.957761",
     "lng": "-80.714912",
     "city": "Manta",
     "country": "Ecuador",
@@ -488,7 +488,7 @@
     "creator": "AleksEspi"
   },
   {
-    "lat": "6.819092",
+    "lat": "46.819092",
     "lng": "-100.778694",
     "city": "Bismarck (North Dakota)",
     "country": "USA",
@@ -496,7 +496,7 @@
     "creator": "localgeek"
   },
   {
-    "lat": "6.881696",
+    "lat": "26.881696",
     "lng": "-80.106984",
     "city": "Palm Beach Gardens",
     "country": "USA",
@@ -504,12 +504,20 @@
     "creator": "porkobyte"
   },
   {
-    "lat": "7.791271",
+    "lat": "37.791271",
     "lng": "-122.38933",
     "city": "San Francisco",
     "country": "USA",
     "imid": 54152,
     "creator": "Claudija"
+  },
+  {
+    "lat": "29.883279",
+    "lng": "-97.940494",
+    "city": "San Marcos (Texas)",
+    "country": "USA",
+    "imid": 54275,
+    "creator": "krockwastaken"
   },
   {
     "lat": "-27.46551",
@@ -542,14 +550,5 @@
     "country": "Japan",
     "imid": 54266,
     "creator": "chousan07"
-  },
-  {
-    "lat": "29.883279",
-    "lng": "-97.940494",
-    "city": "San Marcos (Texas)",
-    "country": "USA",
-    "imid": 54275,
-    "creator": "krockwastaken"
   }
 ]
-
