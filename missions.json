@@ -624,6 +624,14 @@
     "creator": "bhands"
   },
   {
+ "lat": "-0.23927",
+"lng": "-79.17017",
+"city":"Santo Domingo",
+"country":"Dominican Republic",
+"imid":54298,
+"creator":"VMRios"
+ },
+  {
     "lat": "50.63754",
     "lng": "3.07162",
     "city": "Lille",
