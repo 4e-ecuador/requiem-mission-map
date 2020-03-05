@@ -550,5 +550,13 @@
     "country": "Japan",
     "imid": 54266,
     "creator": "chousan07"
+  },
+  {
+    "lat": "46.12622",
+    "lng": "3.415488",
+    "city": "Vichy",
+    "country": "France",
+    "imid": 54285,
+    "creator": "Leynou"
   }
 ]

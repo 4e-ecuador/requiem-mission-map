@@ -5,9 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="icon" href="../favicon.ico">
+    <!-- powered by Agent BastyG -->
+    <link rel="icon" href="https://i0.wp.com/www.smeagol.de/wp-content/uploads/2016/12/cropped-logo-1000.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+    <link rel="icon" href="https://i0.wp.com/www.smeagol.de/wp-content/uploads/2016/12/cropped-logo-1000.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/www.smeagol.de/wp-content/uploads/2016/12/cropped-logo-1000.png?fit=180%2C180&#038;ssl=1" />
 
-    <title>4E - Mapa de Agentes del Ecuador</title>
+    <title>
+        Map of Visit Requiem Munich - Mission Banners
+    </title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
@@ -21,43 +26,46 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
 
     <link rel="stylesheet" href="css/leaflet.zoomdisplay.css">
-
     <link rel="stylesheet" href="css/leaflet-list-markers.src.css">
 
     <!-- Custom styles for this template -->
     <link href="css/frox-agents.css" rel="stylesheet">
 
+    <!-- Matomo -->
+    <script type="text/javascript">
+      var _paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//piwik.sgr.cc/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '17']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="//piwik.sgr.cc/matomo.php?idsite=17&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
 </head>
 
 <body>
-
-<div id="agentmap"></div>
-
-<div id="logoContainer">
-    <img src="img/logo-trans.png" alt="4E Logo" width="100px">
-</div>
-
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+    <div id="agentmap"></div>
+    <div id="logoContainer">
+        <img src="img/logo-trans.png" alt="4E Logo" width="100px">
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
         integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
         crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
         integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
         crossorigin="anonymous"></script>
-
-<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
         integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
         crossorigin=""></script>
-
-<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
-
-<script src="js/leaflet.zoomdisplay-src.js"></script>
-
-<!--
-<script src="js/leaflet-list-markers.src.js"></script>
--->
-<script src="js/frox-agents.js"></script>
-
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="js/leaflet.zoomdisplay-src.js"></script>
+    <script src="js/frox-agents.js"></script>
 </body>
 </html>
