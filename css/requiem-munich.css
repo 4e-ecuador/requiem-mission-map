@@ -7,14 +7,12 @@
 #logoContainer {
     position: absolute;
     z-index: 1;
-    top: 10px;
-    left: 50px;
+    top: 70px;
 }
 #mission-counter {
     position: absolute;
     z-index: 1;
-    top: 110px;
-    left: 50px;
+    top: 165px;
     font-size: 3em;
     color: #07bf05;
     text-shadow: 2px 2px #666666;
