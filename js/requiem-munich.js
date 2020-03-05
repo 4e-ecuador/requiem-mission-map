@@ -1,12 +1,10 @@
-var map = L.map('agentmap', {minZoom: 3})
-    .setView([23.199768, -15.266627], 3)
+const map = L.map('map', {minZoom: 3})
+    .setView([23.199768, -15.266627], 3);
 
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox.streets',
-    accessToken: 'pk.eyJ1IjoiZWxrdWt1IiwiYSI6ImNqOG84cjduZTAwaWsycHBjc2piMHUzZWgifQ.GZUAkk3TMgehR5TZzxhHZQ'
-}).addTo(map);
+new L.TileLayer(
+    'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {attribution: 'Map data (C) <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'}
+).addTo(map)
 
 const markers = L.markerClusterGroup({disableClusteringAtZoom: 14})
 
@@ -21,8 +19,8 @@ $.get('missions.json', {some_var: ''}, function (data) {
             )
 
         marker.bindPopup(
-            this.city +', ' + this.country + '<br>'
-            +'<a href="https://ingressmosaik.com/mosaic/'+this.imid+'">IM</a> by '+ this.creator
+            this.city + ', ' + this.country + '<br>'
+            + '<a href="https://ingressmosaik.com/mosaic/' + this.imid + '">IM</a> by ' + this.creator
         )
 
         markers.addLayer(marker)
