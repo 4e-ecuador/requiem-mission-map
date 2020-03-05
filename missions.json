@@ -2,7 +2,7 @@
   {
     "lat": "48.294029",
     "lng": "14.292398",
-    "city": "Linz ",
+    "city": "Linz",
     "country": "Austria",
     "imid": 54206,
     "creator": "geozukunft"
@@ -18,7 +18,7 @@
   {
     "lat": "50.839575",
     "lng": "4.397176",
-    "city": "Brussels ",
+    "city": "Brussels",
     "country": "Belgium",
     "imid": 54209,
     "creator": "Phaeleh14"
@@ -34,7 +34,7 @@
   {
     "lat": "60.569318",
     "lng": "27.201076",
-    "city": "Hamina ",
+    "city": "Hamina",
     "country": "Finland",
     "imid": 54150,
     "creator": "Juho94"
@@ -50,7 +50,7 @@
   {
     "lat": "65.013335",
     "lng": "25.464731",
-    "city": "Oulu ",
+    "city": "Oulu",
     "country": "Finland",
     "imid": 54193,
     "creator": "ziudt"
@@ -58,7 +58,7 @@
   {
     "lat": "63.096853",
     "lng": "21.616998",
-    "city": "Vasa ",
+    "city": "Vasa",
     "country": "Finland",
     "imid": 54147,
     "creator": "KarhulS"
@@ -66,7 +66,7 @@
   {
     "lat": "48.650957",
     "lng": "-2.021719",
-    "city": "Saint-Malo ",
+    "city": "Saint-Malo",
     "country": "France",
     "imid": 54215,
     "creator": "Dtargarye"
@@ -74,7 +74,7 @@
   {
     "lat": "48.366465",
     "lng": "10.894503",
-    "city": "Augsburg ",
+    "city": "Augsburg",
     "country": "Germany",
     "imid": 54158,
     "creator": "Pr0grammansage"
@@ -90,7 +90,7 @@
   {
     "lat": "52.516489",
     "lng": "13.380383",
-    "city": "Berlin ",
+    "city": "Berlin",
     "country": "Germany",
     "imid": 54196,
     "creator": "Claudija"
@@ -98,7 +98,7 @@
   {
     "lat": "53.075523",
     "lng": "8.80823",
-    "city": "Bremen ",
+    "city": "Bremen",
     "country": "Germany",
     "imid": 54227,
     "creator": "Vainar"
@@ -106,7 +106,7 @@
   {
     "lat": "48.829077",
     "lng": "12.964637",
-    "city": "Deggendorf ",
+    "city": "Deggendorf",
     "country": "Germany",
     "imid": 54230,
     "creator": "EternalFlame94"
@@ -122,7 +122,7 @@
   {
     "lat": "51.52923",
     "lng": "11.548133",
-    "city": "Eisleben ",
+    "city": "Eisleben",
     "country": "Germany",
     "imid": 54243,
     "creator": "slight7"
@@ -138,7 +138,7 @@
   {
     "lat": "53.788187",
     "lng": "9.427871",
-    "city": "Glückstadt ",
+    "city": "Glückstadt",
     "country": "Germany",
     "imid": 54221,
     "creator": "DonSyco"
@@ -146,7 +146,7 @@
   {
     "lat": "48.111135",
     "lng": "11.731159",
-    "city": "Haar ",
+    "city": "Haar",
     "country": "Germany",
     "imid": 54216,
     "creator": "wazoo"
@@ -170,7 +170,7 @@
   {
     "lat": "50.924988",
     "lng": "11.587354",
-    "city": "Jena ",
+    "city": "Jena",
     "country": "Germany",
     "imid": 54149,
     "creator": "BitKloepplerin"
@@ -202,7 +202,7 @@
   {
     "lat": "49.485371",
     "lng": "8.463827",
-    "city": "Mannheim ",
+    "city": "Mannheim",
     "country": "Germany",
     "imid": 54113,
     "creator": "chousan07"
@@ -234,7 +234,7 @@
   {
     "lat": "37.974911",
     "lng": "23.735771",
-    "city": "Athens ",
+    "city": "Athens",
     "country": "Greece",
     "imid": 54118,
     "creator": "DMiliarakis"
@@ -250,7 +250,7 @@
   {
     "lat": "39.640184",
     "lng": "22.419096",
-    "city": "Larisa ",
+    "city": "Larisa",
     "country": "Greece",
     "imid": 54236,
     "creator": "Yoricas"
@@ -258,7 +258,7 @@
   {
     "lat": "38.251899",
     "lng": "21.739634",
-    "city": "Patras ",
+    "city": "Patras",
     "country": "Greece",
     "imid": 54136,
     "creator": "AeonLeon"
@@ -266,7 +266,7 @@
   {
     "lat": "40.626337",
     "lng": "22.948425",
-    "city": "Thessaloniki ",
+    "city": "Thessaloniki",
     "country": "Greece",
     "imid": 54153,
     "creator": "DMiliarakis"
@@ -274,7 +274,7 @@
   {
     "lat": "47.498832",
     "lng": "19.036286",
-    "city": "Budapest ",
+    "city": "Budapest",
     "country": "Hungary",
     "imid": 54244,
     "creator": "Cselka"
@@ -306,7 +306,7 @@
   {
     "lat": "52.257064",
     "lng": "6.160588",
-    "city": "Deventer ",
+    "city": "Deventer",
     "country": "Netherlands",
     "imid": 54246,
     "creator": "DhrMekmek"
@@ -338,7 +338,7 @@
   {
     "lat": "51.500105",
     "lng": "3.61614",
-    "city": "Middelburg ",
+    "city": "Middelburg",
     "country": "Netherlands",
     "imid": 54178,
     "creator": "SagaSanTSD"
@@ -354,7 +354,7 @@
   {
     "lat": "50.258465",
     "lng": "19.018318",
-    "city": "Katovice ",
+    "city": "Katovice",
     "country": "Poland",
     "imid": 54257,
     "creator": "pandahe1en"
@@ -362,7 +362,7 @@
   {
     "lat": "48.146414",
     "lng": "17.106836",
-    "city": "Bratislava ",
+    "city": "Bratislava",
     "country": "Slovakia",
     "imid": 54200,
     "creator": "EternalFlame94"
@@ -378,7 +378,7 @@
   {
     "lat": "57.707024",
     "lng": "11.967525",
-    "city": "Göteborg ",
+    "city": "Göteborg",
     "country": "Sweden",
     "imid": 54112,
     "creator": "Sajjen"
@@ -386,7 +386,7 @@
   {
     "lat": "55.707156",
     "lng": "13.1873",
-    "city": "Lund ",
+    "city": "Lund",
     "country": "Sweden",
     "imid": 54080,
     "creator": "ckk76"
@@ -418,7 +418,7 @@
   {
     "lat": "47.37713",
     "lng": "8.539107",
-    "city": "Zürich ",
+    "city": "Zürich",
     "country": "Switzerland",
     "imid": 54232,
     "creator": "Shogun79"
@@ -442,13 +442,13 @@
   {
     "lat": "50.448772",
     "lng": "30.512848",
-    "city": "Kyiv ",
+    "city": "Kyiv",
     "country": "Ukraine",
     "imid": 54253,
     "creator": "IskanderLocator"
   },
   {
-    "lat": "9.183854",
+    "lat": "49.183854",
     "lng": "-122.848645",
     "city": "Surrey",
     "country": "Canada",
@@ -464,7 +464,7 @@
     "creator": "nikp3h"
   },
   {
-    "lat": "0.273806",
+    "lat": "-0.273806",
     "lng": "-79.44936",
     "city": "El Carmen",
     "country": "Ecuador",
@@ -480,7 +480,7 @@
     "creator": "nikp3h"
   },
   {
-    "lat": "0.957761",
+    "lat": "-0.957761",
     "lng": "-80.714912",
     "city": "Manta",
     "country": "Ecuador",
@@ -488,7 +488,7 @@
     "creator": "AleksEspi"
   },
   {
-    "lat": "6.819092",
+    "lat": "46.819092",
     "lng": "-100.778694",
     "city": "Bismarck (North Dakota)",
     "country": "USA",
@@ -496,7 +496,7 @@
     "creator": "localgeek"
   },
   {
-    "lat": "6.881696",
+    "lat": "26.881696",
     "lng": "-80.106984",
     "city": "Palm Beach Gardens",
     "country": "USA",
@@ -504,44 +504,12 @@
     "creator": "porkobyte"
   },
   {
-    "lat": "7.791271",
+    "lat": "37.791271",
     "lng": "-122.38933",
     "city": "San Francisco",
     "country": "USA",
     "imid": 54152,
     "creator": "Claudija"
-  },
-  {
-    "lat": "7.46551",
-    "lng": "153.019108",
-    "city": "Brisbane",
-    "country": "Australia",
-    "imid": 54249,
-    "creator": "Lluminaire"
-  },
-  {
-    "lat": "4.693121",
-    "lng": "135.501174",
-    "city": "Osaka",
-    "country": "Japan",
-    "imid": 54267,
-    "creator": "tarmn3"
-  },
-  {
-    "lat": "3.058986",
-    "lng": "141.340645",
-    "city": "Sapporo",
-    "country": "Japan",
-    "imid": 54258,
-    "creator": "yukiatom"
-  },
-  {
-    "lat": "5.894062",
-    "lng": "139.633969",
-    "city": "Saitama",
-    "country": "Japan",
-    "imid": 54266,
-    "creator": "chousan07"
   },
   {
     "lat": "29.883279",
@@ -550,6 +518,37 @@
     "country": "USA",
     "imid": 54275,
     "creator": "krockwastaken"
+  },
+  {
+    "lat": "-27.46551",
+    "lng": "153.019108",
+    "city": "Brisbane",
+    "country": "Australia",
+    "imid": 54249,
+    "creator": "Lluminaire"
+  },
+  {
+    "lat": "34.693121",
+    "lng": "135.501174",
+    "city": "Osaka",
+    "country": "Japan",
+    "imid": 54267,
+    "creator": "tarmn3"
+  },
+  {
+    "lat": "43.058986",
+    "lng": "141.340645",
+    "city": "Sapporo",
+    "country": "Japan",
+    "imid": 54258,
+    "creator": "yukiatom"
+  },
+  {
+    "lat": "35.894062",
+    "lng": "139.633969",
+    "city": "Saitama",
+    "country": "Japan",
+    "imid": 54266,
+    "creator": "chousan07"
   }
 ]
-
