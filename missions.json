@@ -670,5 +670,21 @@
     "country": "Spain",
     "imid": 54312,
     "creator": "ntzz"
+  },
+  {
+    "lat": "49.868536",
+    "lng": "8.650301",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "imid": 54314,
+    "creator": "YaYaMuuu"
+  },
+  {
+    "lat": "42.340967",
+    "lng": "-3.716752",
+    "city": "Burgos",
+    "country": "Spain",
+    "imid": 54313,
+    "creator": "ntzz"
   }
 ]
