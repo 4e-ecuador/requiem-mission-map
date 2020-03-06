@@ -694,5 +694,29 @@
     "country": "Poland",
     "imid": 54315,
     "creator": "GreenBay"
+  },
+  {
+    "lat": "55.594231",
+    "lng": "13.000364",
+    "city": "Malmö",
+    "country": "Sweden",
+    "imid": 54316,
+    "creator": "ckk76"
+  },
+  {
+    "lat": "41.388745",
+    "lng": "2.172648",
+    "city": "Barcelona",
+    "country": "Spain",
+    "imid": 54318,
+    "creator": "abstractpainter"
+  },
+  {
+    "lat": "54.522956",
+    "lng": "18.543882",
+    "city": "Gdynia",
+    "country": "Poland",
+    "imid": 54317,
+    "creator": "Therin87"
   }
 ]
