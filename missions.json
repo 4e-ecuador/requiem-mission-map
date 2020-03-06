@@ -758,5 +758,13 @@
     "country": "Japan",
     "imid": 54328,
     "creator": "katops"
+  },
+  {
+    "lat": "48.115212",
+    "lng": "-1.677485",
+    "city": " Rennes ",
+    "country": "France",
+    "imid": 54335,
+    "creator": "Dtargarye"
   }
 ]
