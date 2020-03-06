@@ -686,5 +686,13 @@
     "country": "Spain",
     "imid": 54313,
     "creator": "ntzz"
+  },
+  {
+    "lat": "53.431731",
+    "lng": "14.566931",
+    "city": "Szczecin",
+    "country": "Poland",
+    "imid": 54315,
+    "creator": "GreenBay"
   }
 ]
