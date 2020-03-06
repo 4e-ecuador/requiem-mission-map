@@ -726,5 +726,37 @@
     "country": "Finland",
     "imid": 54321,
     "creator": "Gentianella"
+  },
+  {
+    "lat": "60.870776",
+    "lng": "26.714445",
+    "city": "Kouvola",
+    "country": "Finland",
+    "imid": 54324,
+    "creator": "Juho94"
+  },
+  {
+    "lat": "41.560972",
+    "lng": "2.007625",
+    "city": "Terrassa",
+    "country": "Spain",
+    "imid": 54325,
+    "creator": "abstractpainter"
+  },
+  {
+    "lat": "52.199851",
+    "lng": "0.127864",
+    "city": "Cambridge",
+    "country": "United Kingdom",
+    "imid": 54326,
+    "creator": "thundercracker1"
+  },
+  {
+    "lat": "35.54397",
+    "lng": "134.2374",
+    "city": "Tottori",
+    "country": "Japan",
+    "imid": 54328,
+    "creator": "katops"
   }
 ]
