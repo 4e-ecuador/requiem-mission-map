@@ -650,17 +650,25 @@
   {
     "lat": "50.06767",
     "lng": "14.415601",
-    "city": "   Praha   Czech",
-    "country": "Republic",
+    "city": "Prague",
+    "country": "Czech Republic",
     "imid": 54310,
     "creator": "toothrot"
   },
   {
     "lat": "52.507028",
     "lng": "5.470724",
-    "city": "   Lelystad   ",
+    "city": "Lelystad",
     "country": "Netherlands",
     "imid": 54309,
     "creator": "ioHpeiH"
+  },
+  {
+    "lat": "43.259068",
+    "lng": "-2.922657",
+    "city": "Bilbao",
+    "country": "Spain",
+    "imid": 54312,
+    "creator": "ntzz"
   }
 ]
