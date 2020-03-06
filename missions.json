@@ -426,16 +426,16 @@
   {
     "lat": "52.916441",
     "lng": "-1.463059",
-    "city": "Derby United",
-    "country": "Kingdom",
+    "city": "Derby",
+    "country": "United Kingdom",
     "imid": 54124,
     "creator": "Caraphaelius"
   },
   {
     "lat": "53.795908",
     "lng": "-1.547121",
-    "city": "Leeds United",
-    "country": "Kingdom",
+    "city": "Leeds",
+    "country": "United Kingdom",
     "imid": 54207,
     "creator": "RoseyMacdoo"
   },
@@ -558,5 +558,205 @@
     "country": "France",
     "imid": 54285,
     "creator": "Leynou"
+  },
+  {
+    "lat": "0.00764",
+    "lng": "-79.398505",
+    "city": "La Concordia",
+    "country": "Ecuador",
+    "imid": 54288,
+    "creator": "nikp3h"
+  },
+  {
+    "lat": "42.938766",
+    "lng": "-78.888056",
+    "city": "Buffalo (New York)",
+    "country": "USA",
+    "imid": 54290,
+    "creator": "DisasterMaker89"
+  },
+  {
+    "lat": "41.853578",
+    "lng": "-87.652462",
+    "city": "Chicago (Illinois)",
+    "country": "USA",
+    "imid": 54291,
+    "creator": "DisasterMaker89"
+  },
+  {
+    "lat": "45.254921",
+    "lng": "19.843664",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "imid": 54293,
+    "creator": "brunopuric"
+  },
+  {
+    "lat": "-23.4256",
+    "lng": "-51.936734",
+    "city": "Maringá",
+    "country": "Brazil",
+    "imid": 54283,
+    "creator": "GiJoeRise"
+  },
+  {
+    "lat": "47.522631",
+    "lng": "8.537618",
+    "city": "Bülach",
+    "country": "Switzerland",
+    "imid": 54294,
+    "creator": "Shogun79"
+  },
+  {
+    "lat": "30.703443",
+    "lng": "76.781464",
+    "city": "Chandigarh",
+    "country": "India",
+    "imid": 54295,
+    "creator": "CommandoRana"
+  },
+  {
+    "lat": "28.470661",
+    "lng": "77.063088",
+    "city": "Gurugram",
+    "country": "India",
+    "imid": 54296,
+    "creator": "bhands"
+  },
+  {
+    "lat": "-0.23927",
+    "lng": "-79.17017",
+    "city": "Santo Domingo",
+    "country": "Ecuador",
+    "imid": 54298,
+    "creator": "VMRios"
+  },
+  {
+    "lat": "33.459509",
+    "lng": "-112.072391",
+    "city": "Phoenix (Arizona)",
+    "country": "USA",
+    "imid": 54301,
+    "creator": "MonkeyPelt"
+  },
+  {
+    "lat": "50.63754",
+    "lng": "3.07162",
+    "city": "Lille",
+    "country": "France",
+    "imid": 54297,
+    "creator": "MarcoSunbass"
+  },
+  {
+    "lat": "50.06767",
+    "lng": "14.415601",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "imid": 54310,
+    "creator": "toothrot"
+  },
+  {
+    "lat": "52.507028",
+    "lng": "5.470724",
+    "city": "Lelystad",
+    "country": "Netherlands",
+    "imid": 54309,
+    "creator": "ioHpeiH"
+  },
+  {
+    "lat": "43.259068",
+    "lng": "-2.922657",
+    "city": "Bilbao",
+    "country": "Spain",
+    "imid": 54312,
+    "creator": "ntzz"
+  },
+  {
+    "lat": "49.868536",
+    "lng": "8.650301",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "imid": 54314,
+    "creator": "YaYaMuuu"
+  },
+  {
+    "lat": "42.340967",
+    "lng": "-3.716752",
+    "city": "Burgos",
+    "country": "Spain",
+    "imid": 54313,
+    "creator": "ntzz"
+  },
+  {
+    "lat": "53.431731",
+    "lng": "14.566931",
+    "city": "Szczecin",
+    "country": "Poland",
+    "imid": 54315,
+    "creator": "GreenBay"
+  },
+  {
+    "lat": "55.594231",
+    "lng": "13.000364",
+    "city": "Malmö",
+    "country": "Sweden",
+    "imid": 54316,
+    "creator": "ckk76"
+  },
+  {
+    "lat": "41.388745",
+    "lng": "2.172648",
+    "city": "Barcelona",
+    "country": "Spain",
+    "imid": 54318,
+    "creator": "abstractpainter"
+  },
+  {
+    "lat": "54.522956",
+    "lng": "18.543882",
+    "city": "Gdynia",
+    "country": "Poland",
+    "imid": 54317,
+    "creator": "Therin87"
+  },
+  {
+    "lat": "60.170694",
+    "lng": "24.941522",
+    "city": "Helsinki",
+    "country": "Finland",
+    "imid": 54321,
+    "creator": "Gentianella"
+  },
+  {
+    "lat": "60.870776",
+    "lng": "26.714445",
+    "city": "Kouvola",
+    "country": "Finland",
+    "imid": 54324,
+    "creator": "Juho94"
+  },
+  {
+    "lat": "41.560972",
+    "lng": "2.007625",
+    "city": "Terrassa",
+    "country": "Spain",
+    "imid": 54325,
+    "creator": "abstractpainter"
+  },
+  {
+    "lat": "52.199851",
+    "lng": "0.127864",
+    "city": "Cambridge",
+    "country": "United Kingdom",
+    "imid": 54326,
+    "creator": "thundercracker1"
+  },
+  {
+    "lat": "35.54397",
+    "lng": "134.2374",
+    "city": "Tottori",
+    "country": "Japan",
+    "imid": 54328,
+    "creator": "katops"
   }
 ]

@@ -1,0 +1,19 @@
+#map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+#logoContainer {
+    position: absolute;
+    z-index: 1;
+    top: 70px;
+}
+#mission-counter {
+    position: absolute;
+    z-index: 1;
+    top: 165px;
+    font-size: 3em;
+    color: #07bf05;
+    text-shadow: 2px 2px #666666;
+}
