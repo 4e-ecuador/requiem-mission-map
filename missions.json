@@ -632,6 +632,14 @@
       "creator":"VMRios"
    },
    {
+ "lat": "33.459509",
+"lng": "-112.072391",
+"city":"Phoenix (Arizona)",
+"country":"USA",
+"imid":54301,
+"creator":"MonkeyPelt"
+ },
+   {
       "lat":"50.63754",
       "lng":"3.07162",
       "city":"Lille",
