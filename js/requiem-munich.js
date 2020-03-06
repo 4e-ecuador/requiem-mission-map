@@ -16,7 +16,7 @@ let htmlTemplate = '{{city}}, {{country}}<br />' +
 function getHtml(obj) {
     var html = htmlTemplate;
     $(replacements).each(function(i, replacement){
-        html = html.replace('{{'+replacement+'}}', obj[replacement].trim());
+        html = html.replace('{{'+replacement+'}}', obj[replacement]);
     });
     return html;
 }
