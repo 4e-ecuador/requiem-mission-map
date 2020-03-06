@@ -718,5 +718,13 @@
     "country": "Poland",
     "imid": 54317,
     "creator": "Therin87"
+  },
+  {
+    "lat": "60.170694",
+    "lng": "24.941522",
+    "city": "Helsinki",
+    "country": "Finland",
+    "imid": 54321,
+    "creator": "Gentianella"
   }
 ]
