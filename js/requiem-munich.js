@@ -55,7 +55,13 @@ $('#btn-chart').on("click", function () {
         }],
         labels: chartData['labels']
     };
-    let options = {}
+    let options = {
+        plugins: {
+            colorschemes: {
+                scheme: 'brewer.YlGn9'
+            }
+        }
+    }
     const myPieChart = new Chart(ctx, {
         type: 'pie',
         data: data,
