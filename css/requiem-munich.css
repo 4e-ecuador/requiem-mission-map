@@ -9,6 +9,7 @@
     z-index: 1;
     top: 70px;
 }
+
 #mission-counter {
     position: absolute;
     z-index: 1;
@@ -16,4 +17,14 @@
     font-size: 3em;
     color: #07bf05;
     text-shadow: 2px 2px #666666;
+}
+
+#controls-container {
+    position: absolute;
+    z-index: 1;
+    top: 220px;
+    font-size: 3em;
+    color: #07bf05;
+    text-shadow: 2px 2px #666666;
+    cursor: pointer;
 }
