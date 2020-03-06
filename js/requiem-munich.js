@@ -4,28 +4,31 @@ const map = L.map('map', {minZoom: 3})
 new L.TileLayer(
     'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
     {attribution: 'Map data (C) <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'}
-).addTo(map)
+).addTo(map);
 
-const markers = L.markerClusterGroup({disableClusteringAtZoom: 14})
+const markers = L.markerClusterGroup({disableClusteringAtZoom: 14});
+map.addLayer(markers);
 
-map.addLayer(markers)
+let replacements = ['city', 'country', 'imid', 'creator'];
+let htmlTemplate = '{{city}}, {{country}}<br />' + 
+                   '<a target="_blank" href="https://ingressmosaic.com/mosaic/{{imid}}">IM</a>' + 
+                   ' by {{creator}}';
+function getHtml(obj) {
+    var html = htmlTemplate;
+    $(replacements).each(function(i, replacement){
+        html = html.replace('{{'+replacement+'}}', obj[replacement]);
+    });
+    return html;
+}
 
 $.get('missions.json', {some_var: ''}, function (data) {
-    $('#mission-counter').html(data.length)
+    $('#mission-counter').html(data.length);
     $(data).each(function () {
-        let marker =
-            new L.Marker(
-                new L.LatLng(this.lat, this.lng), {title: this.city}
-            )
-
-        marker.bindPopup(
-            this.city + ', ' + this.country + '<br>'
-            + '<a href="https://ingressmosaik.com/mosaic/' + this.imid + '">IM</a> by ' + this.creator
-        )
-
-        markers.addLayer(marker)
-    })
-}, 'json')
+        let marker = new L.Marker(new L.LatLng(this.lat, this.lng), {title: this.city});
+        marker.bindPopup(getHtml(this));
+        markers.addLayer(marker);
+    });
+}, 'json');
 
 // Logo
 const mapControlsContainer = document.getElementsByClassName("leaflet-control")[0];
