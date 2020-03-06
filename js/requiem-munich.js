@@ -36,14 +36,19 @@ $.get('missions.json', {some_var: ''}, function (data) {
             chartInfo[this.country]++;
         }
     });
+    const sortable = [];
+    for (const key in chartInfo) {
+        sortable.push([key, chartInfo[key]]);
+    }
+    sortable.sort(function (a, b) {
+        return a[1] - b[1];
+    });
 
     chartData['labels'] = []
     chartData['data'] = []
-    for (const key in chartInfo) {
-        if (chartInfo.hasOwnProperty(key)) {
-            chartData['labels'].push(key)
-            chartData['data'].push(chartInfo[key]);
-        }
+    for (const key in sortable) {
+        chartData['labels'].push(sortable[key][0]+' ('+sortable[key][1]+')')
+        chartData['data'].push(sortable[key][1]);
     }
 }, 'json');
 
