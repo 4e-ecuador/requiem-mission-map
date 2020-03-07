@@ -766,5 +766,29 @@
     "country": "France",
     "imid": 54335,
     "creator": "Dtargarye"
+  },
+  {
+    "lat": "-12.078701",
+    "lng": "-77.049949",
+    "city": "Lima",
+    "country": "Peru",
+    "imid": 54344,
+    "creator": "Amularia"
+  },
+  {
+    "lat": "54.074436",
+    "lng": "9.98174",
+    "city": "Neumünster",
+    "country": "Germany",
+    "imid": 54343,
+    "creator": "BaronVonLoewi"
+  },
+  {
+    "lat": "61.20254",
+    "lng": "26.034381",
+    "city": "Heinola",
+    "country": "Finland",
+    "imid": 54338,
+    "creator": "Eeligamer"
   }
 ]
