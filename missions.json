@@ -790,5 +790,37 @@
     "country": "Finland",
     "imid": 54338,
     "creator": "Eeligamer"
+  },
+  {
+    "lat": "55.860454",
+    "lng": "-4.249022",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "imid": 54349,
+    "creator": "1969reeperman"
+  },
+  {
+    "lat": "48.881118",
+    "lng": "12.565601",
+    "city": "Straubing",
+    "country": "Germany",
+    "imid": 54350,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "48.950333",
+    "lng": "13.199321",
+    "city": "Rinchnach",
+    "country": "Germany",
+    "imid": 54351,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "48.571397",
+    "lng": "13.456288",
+    "city": "Passau",
+    "country": "Germany",
+    "imid": 54352,
+    "creator": "EternalFlame94"
   }
 ]
