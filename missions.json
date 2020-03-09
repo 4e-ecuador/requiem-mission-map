@@ -886,5 +886,21 @@
     "country": "Czech Republic",
     "imid": 54374,
     "creator": "toothrot"
+  },
+  {
+    "lat": "51.441596",
+    "lng": "3.595677",
+    "city": "Vlissingen",
+    "country": "Netherlands",
+    "imid": 54376,
+    "creator": "captainmichiel"
+  },
+  {
+    "lat": "49.194805",
+    "lng": "16.608594",
+    "city": "Brno",
+    "country": "Czech Republic",
+    "imid": 54377,
+    "creator": "OndermanCZ"
   }
 ]
