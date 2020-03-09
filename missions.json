@@ -902,5 +902,13 @@
     "country": "Czech Republic",
     "imid": 54377,
     "creator": "OndermanCZ"
+  },
+  {
+    "lat": "35.674647",
+    "lng": "139.763467",
+    "city": "Tokyo",
+    "country": "Japan",
+    "imid": 54381,
+    "creator": "clomi9999"
   }
 ]
