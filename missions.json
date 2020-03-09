@@ -862,5 +862,13 @@
     "country": "France",
     "imid": 54369,
     "creator": "NorajBarthabass"
+  },
+  {
+    "lat": "49.020575",
+    "lng": "12.101511",
+    "city": "Regensburg",
+    "country": "Germany",
+    "imid": 54373,
+    "creator": "Pr0grammansage"
   }
 ]
