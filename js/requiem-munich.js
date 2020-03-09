@@ -6,6 +6,13 @@ new L.TileLayer(
     {attribution: 'Map data (C) <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'}
 ).addTo(map);
 
+var myIcon = L.icon({
+    iconUrl:      'img/my-icon.png',
+    iconSize:     [22, 36],
+    iconAnchor:   [11, 36],
+    popupAnchor:  [0, -18],
+});
+
 const markers = L.markerClusterGroup({disableClusteringAtZoom: 14});
 map.addLayer(markers);
 
@@ -21,10 +28,10 @@ function getHtml(obj) {
     return html;
 }
 
-$.get('missions.json', {some_var: ''}, function (data) {
+$.get('missions.json', {some_var: '120'}, function (data) {
     $('#mission-counter').html(data.length);
     $(data).each(function () {
-        let marker = new L.Marker(new L.LatLng(this.lat, this.lng), {title: this.city});
+        let marker = new L.Marker(new L.LatLng(this.lat, this.lng), {title: this.city, icon: myIcon});
         marker.bindPopup(getHtml(this));
         markers.addLayer(marker);
     });
@@ -35,3 +42,11 @@ const mapControlsContainer = document.getElementsByClassName("leaflet-control")[
 
 mapControlsContainer.appendChild(document.getElementById("logoContainer"));
 mapControlsContainer.appendChild(document.getElementById("mission-counter"));
+
+$('.logo-image').on('click', function(){
+    var newSrc = $(this).prop('src').replace('01', '06');
+    if(newSrc == $(this).prop('src')) {
+        newSrc = $(this).prop('src').replace('06', '01');
+    }
+    $(this).prop('src', newSrc);
+});

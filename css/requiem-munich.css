@@ -17,3 +17,7 @@
     color: #07bf05;
     text-shadow: 2px 2px #666666;
 }
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background: lightgreen;
+}
