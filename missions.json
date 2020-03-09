@@ -918,5 +918,13 @@
     "country": "Bulgaria",
     "imid": 54379,
     "creator": "YaYaMuuu"
+  },
+  {
+    "lat": "51.53154",
+    "lng": "-0.123894",
+    "city": "London",
+    "country": "United Kingdom",
+    "imid": 54388,
+    "creator": "clojurian"
   }
 ]
