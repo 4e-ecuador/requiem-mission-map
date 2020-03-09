@@ -822,5 +822,45 @@
     "country": "Germany",
     "imid": 54352,
     "creator": "EternalFlame94"
+  },
+  {
+    "lat": "49.417323",
+    "lng": "8.675789",
+    "city": "Heidelberg",
+    "country": "Germany",
+    "imid": 54363,
+    "creator": "Nasgorian"
+  },
+  {
+    "lat": "48.765214",
+    "lng": "13.019515",
+    "city": " Niederalteich",
+    "country": "Germany",
+    "imid": 54368,
+    "creator": "19mel89"
+  },
+  {
+    "lat": "45.475579",
+    "lng": "9.172583",
+    "city": "Milan",
+    "country": "Italy",
+    "imid": 54364,
+    "creator": "rayofshadow23"
+  },
+  {
+    "lat": "48.857335",
+    "lng": "2.351661",
+    "city": "Paris",
+    "country": "France",
+    "imid": 54367,
+    "creator": "Khatre"
+  },
+  {
+    "lat": "48.823868",
+    "lng": "2.353475",
+    "city": "Paris district 13",
+    "country": "France",
+    "imid": 54369,
+    "creator": "NorajBarthabass"
   }
 ]

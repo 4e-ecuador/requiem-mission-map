@@ -1,7 +1,7 @@
 / regex /
 
 Search:
-^.*pll=([0-9-]{1,3}\.[0-9]+),([-0-9]{1,4}\.[0-9]+)[ ]+([-A-Z\(\)üö ]+)[ ]+([A-Z]+)[ ]+https://ingressmosai[ck].com/mosaic/([0-9]+)[ ]+([a-z0-9]+)$
+^.*pll=([0-9-]{1,3}\.[0-9]+),([-0-9]{1,4}\.[0-9]+) ([-A-Z\(\)üö13 ]+)[ ]+([A-Z]+)[ ]+https://ingressmosaik.com/mosaic/([0-9]+)[ ]+([a-z0-9]+)$
 
 Replace:
 ,{\n "lat": "\1",\n"lng": "\2",\n"city":"\3",\n"country":"\4",\n"imid":\5,\n"creator":"\6"\n }
