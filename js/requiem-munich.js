@@ -34,7 +34,7 @@ function roundOneDecimal(num) {
     return (Math.round(num * 10) / 10);
 }
 
-$.get('missions.json', {some_var: '120'}, function (data) {
+$.get('missions.json', {some_var: '121'}, function (data) {
     let chartInfo = [];
     $('#mission-counter').html(data.length);
     $(data).each(function () {
@@ -95,10 +95,10 @@ mapControlsContainer.appendChild(document.getElementById("logoContainer"));
 mapControlsContainer.appendChild(document.getElementById("mission-counter"));
 mapControlsContainer.appendChild(document.getElementById("controls-container"));
 
-$('#logoContainer').on('click', function(){
-    var newSrc = $(this).prop('src').replace('01', '06');
-    if(newSrc == $(this).prop('src')) {
-        newSrc = $(this).prop('src').replace('06', '01');
-    }
-    $(this).prop('src', newSrc);
+$('#logoContainer').on('click', function() {
+    var $img = $($(this).find('img')[0]);
+    var newSrc = $img.prop('src').replace(/(0[61])/, function(str){
+        if(str === '06') return '01'; else return '06';
+    });
+    $img.prop('src', newSrc);
 });
