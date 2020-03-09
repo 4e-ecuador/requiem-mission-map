@@ -958,5 +958,29 @@
     "country": "Czech Republic",
     "imid": 54396,
     "creator": "ECILEHARD"
+  },
+  {
+    "lat": "59.323865",
+    "lng": "18.067484",
+    "city": "Stockholm - Gamla Stan",
+    "country": "Sweden",
+    "imid": 54403,
+    "creator": "stnigatan"
+  },
+  {
+    "lat": "51.27768",
+    "lng": "0.521288",
+    "city": "Maidstone",
+    "country": "United Kingdom",
+    "imid": 54401,
+    "creator": "Zeebass"
+  },
+  {
+    "lat": "51.38595",
+    "lng": "0.507329",
+    "city": "Rochester",
+    "country": "United Kingdom",
+    "imid": 54402,
+    "creator": "Zeebass"
   }
 ]
