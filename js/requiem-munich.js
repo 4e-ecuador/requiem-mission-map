@@ -23,6 +23,10 @@ function getHtml(obj) {
     return html;
 }
 
+function roundOneDecimal(num) {
+    return (Math.round(num * 10) / 10);
+}
+
 $.get('missions.json', {some_var: ''}, function (data) {
     let chartInfo = [];
     $('#mission-counter').html(data.length);
@@ -37,17 +41,18 @@ $.get('missions.json', {some_var: ''}, function (data) {
         }
     });
     const sortable = [];
+    let percentBase = data.length > 0 ? (100 / data.length) : 1;
     for (const key in chartInfo) {
-        sortable.push([key, chartInfo[key]]);
+        sortable.push([key, chartInfo[key], roundOneDecimal(percentBase * chartInfo[key]) + '%']);
     }
     sortable.sort(function (a, b) {
-        return a[1] - b[1];
+        return b[1] - a[1];
     });
 
     chartData['labels'] = []
     chartData['data'] = []
     for (const key in sortable) {
-        chartData['labels'].push(sortable[key][0]+' ('+sortable[key][1]+')')
+        chartData['labels'].push(sortable[key][0]+' ('+sortable[key][1]+', '+sortable[key][2]+')')
         chartData['data'].push(sortable[key][1]);
     }
 }, 'json');
