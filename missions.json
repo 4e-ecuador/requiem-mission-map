@@ -934,5 +934,13 @@
     "country": "Germany",
     "imid": 54391,
     "creator": "Trixity"
+  },
+  {
+    "lat": "14.561575",
+    "lng": "121.076619",
+    "city": "Pasig",
+    "country": "Philippines",
+    "imid": 54393,
+    "creator": "Ngern"
   }
 ]
