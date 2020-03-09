@@ -950,5 +950,13 @@
     "country": "France",
     "imid": 54395,
     "creator": "JiefSourd"
+  },
+  {
+    "lat": "50.149469",
+    "lng": "15.122533",
+    "city": "Poděbrady",
+    "country": "Czech Republic",
+    "imid": 54396,
+    "creator": "ECILEHARD"
   }
 ]
