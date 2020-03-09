@@ -942,5 +942,13 @@
     "country": "Philippines",
     "imid": 54393,
     "creator": "Ngern"
+  },
+  {
+    "lat": "47.823335",
+    "lng": "-0.707792",
+    "city": "Château-Gontier",
+    "country": "France",
+    "imid": 54395,
+    "creator": "JiefSourd"
   }
 ]
