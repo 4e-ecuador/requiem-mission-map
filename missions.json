@@ -870,5 +870,21 @@
     "country": "Germany",
     "imid": 54373,
     "creator": "Pr0grammansage"
+  },
+  {
+    "lat": "35.212644",
+    "lng": "26.11189",
+    "city": "Sitia",
+    "country": "Greece",
+    "imid": 54371,
+    "creator": "ippalectrion"
+  },
+  {
+    "lat": "50.077624",
+    "lng": "12.371507",
+    "city": "Cheb",
+    "country": "Czech Republic",
+    "imid": 54374,
+    "creator": "toothrot"
   }
 ]
