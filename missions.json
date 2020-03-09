@@ -758,5 +758,205 @@
     "country": "Japan",
     "imid": 54328,
     "creator": "katops"
+  },
+  {
+    "lat": "48.115212",
+    "lng": "-1.677485",
+    "city": "Rennes",
+    "country": "France",
+    "imid": 54335,
+    "creator": "Dtargarye"
+  },
+  {
+    "lat": "-12.078701",
+    "lng": "-77.049949",
+    "city": "Lima",
+    "country": "Peru",
+    "imid": 54344,
+    "creator": "Amularia"
+  },
+  {
+    "lat": "54.074436",
+    "lng": "9.98174",
+    "city": "Neumünster",
+    "country": "Germany",
+    "imid": 54343,
+    "creator": "BaronVonLoewi"
+  },
+  {
+    "lat": "61.20254",
+    "lng": "26.034381",
+    "city": "Heinola",
+    "country": "Finland",
+    "imid": 54338,
+    "creator": "Eeligamer"
+  },
+  {
+    "lat": "55.860454",
+    "lng": "-4.249022",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "imid": 54349,
+    "creator": "1969reeperman"
+  },
+  {
+    "lat": "48.881118",
+    "lng": "12.565601",
+    "city": "Straubing",
+    "country": "Germany",
+    "imid": 54350,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "48.950333",
+    "lng": "13.199321",
+    "city": "Rinchnach",
+    "country": "Germany",
+    "imid": 54351,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "48.571397",
+    "lng": "13.456288",
+    "city": "Passau",
+    "country": "Germany",
+    "imid": 54352,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "49.417323",
+    "lng": "8.675789",
+    "city": "Heidelberg",
+    "country": "Germany",
+    "imid": 54363,
+    "creator": "Nasgorian"
+  },
+  {
+    "lat": "48.765214",
+    "lng": "13.019515",
+    "city": "Niederalteich",
+    "country": "Germany",
+    "imid": 54368,
+    "creator": "19mel89"
+  },
+  {
+    "lat": "45.475579",
+    "lng": "9.172583",
+    "city": "Milan",
+    "country": "Italy",
+    "imid": 54364,
+    "creator": "rayofshadow23"
+  },
+  {
+    "lat": "48.857335",
+    "lng": "2.351661",
+    "city": "Paris",
+    "country": "France",
+    "imid": 54367,
+    "creator": "Khatre"
+  },
+  {
+    "lat": "48.823868",
+    "lng": "2.353475",
+    "city": "Paris district 13",
+    "country": "France",
+    "imid": 54369,
+    "creator": "NorajBarthabass"
+  },
+  {
+    "lat": "49.020575",
+    "lng": "12.101511",
+    "city": "Regensburg",
+    "country": "Germany",
+    "imid": 54373,
+    "creator": "Pr0grammansage"
+  },
+  {
+    "lat": "35.212644",
+    "lng": "26.11189",
+    "city": "Sitia",
+    "country": "Greece",
+    "imid": 54371,
+    "creator": "ippalectrion"
+  },
+  {
+    "lat": "50.077624",
+    "lng": "12.371507",
+    "city": "Cheb",
+    "country": "Czech Republic",
+    "imid": 54374,
+    "creator": "toothrot"
+  },
+  {
+    "lat": "51.441596",
+    "lng": "3.595677",
+    "city": "Vlissingen",
+    "country": "Netherlands",
+    "imid": 54376,
+    "creator": "captainmichiel"
+  },
+  {
+    "lat": "49.194805",
+    "lng": "16.608594",
+    "city": "Brno",
+    "country": "Czech Republic",
+    "imid": 54377,
+    "creator": "OndermanCZ"
+  },
+  {
+    "lat": "35.674647",
+    "lng": "139.763467",
+    "city": "Tokyo",
+    "country": "Japan",
+    "imid": 54381,
+    "creator": "clomi9999"
+  },
+  {
+    "lat": "42.885571",
+    "lng": "24.709854",
+    "city": "Troyan",
+    "country": "Bulgaria",
+    "imid": 54379,
+    "creator": "YaYaMuuu"
+  },
+  {
+    "lat": "51.53154",
+    "lng": "-0.123894",
+    "city": "London",
+    "country": "United Kingdom",
+    "imid": 54388,
+    "creator": "clojurian"
+  },
+  {
+    "lat": "48.137238",
+    "lng": "11.576208",
+    "city": "Munich",
+    "country": "Germany",
+    "imid": 54391,
+    "creator": "Trixity"
+  },
+  {
+    "lat": "14.561575",
+    "lng": "121.076619",
+    "city": "Pasig",
+    "country": "Philippines",
+    "imid": 54393,
+    "creator": "Ngern"
+  },
+  {
+    "lat": "47.823335",
+    "lng": "-0.707792",
+    "city": "Château-Gontier",
+    "country": "France",
+    "imid": 54395,
+    "creator": "JiefSourd"
+  },
+  {
+    "lat": "50.149469",
+    "lng": "15.122533",
+    "city": "Poděbrady",
+    "country": "Czech Republic",
+    "imid": 54396,
+    "creator": "ECILEHARD"
   }
 ]
