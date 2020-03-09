@@ -926,5 +926,13 @@
     "country": "United Kingdom",
     "imid": 54388,
     "creator": "clojurian"
+  },
+  {
+    "lat": "48.137238",
+    "lng": "11.576208",
+    "city": "Munich",
+    "country": "Germany",
+    "imid": 54391,
+    "creator": "Trixity"
   }
 ]
