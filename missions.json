@@ -982,5 +982,53 @@
     "country": "United Kingdom",
     "imid": 54402,
     "creator": "Zeebass"
+  },
+  {
+    "lat": "51.385493",
+    "lng": "1.371876",
+    "city": "Margate",
+    "country": "United Kingdom",
+    "imid": 54404,
+    "creator": "EpicGinger"
+  },
+  {
+    "lat": "50.558707",
+    "lng": "15.911922",
+    "city": "Trutnov",
+    "country": "Czech Republic",
+    "imid": 54405,
+    "creator": "Fisa22"
+  },
+  {
+    "lat": "44.425414",
+    "lng": "26.046457",
+    "city": "Bucharest",
+    "country": "Romania",
+    "imid": 54408,
+    "creator": "ciiniirosii"
+  },
+  {
+    "lat": "38.677374",
+    "lng": "-121.774645",
+    "city": "Woodland (California)",
+    "country": "USA",
+    "imid": 54411,
+    "creator": "PLCats"
+  },
+  {
+    "lat": "35.396392",
+    "lng": "139.466787",
+    "city": "Shonandai",
+    "country": "Japan",
+    "imid": 54410,
+    "creator": "SuZ912"
+  },
+  {
+    "lat": "38.260935",
+    "lng": "140.881432",
+    "city": "Sendai",
+    "country": "Japan",
+    "imid": 54409,
+    "creator": "BYTEE"
   }
 ]
