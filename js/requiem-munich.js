@@ -34,7 +34,7 @@ function roundOneDecimal(num) {
     return (Math.round(num * 10) / 10);
 }
 
-$.get('/', {v: '6', f: 'mission-list'}, function (data) {
+$.get('', {v: '6', f: 'mission-list'}, function (data) {
     let chartInfo = [];
     $('#mission-counter').html(data.length);
     $(data).each(function () {
