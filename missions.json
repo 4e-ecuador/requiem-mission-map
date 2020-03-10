@@ -1062,5 +1062,53 @@
     "country": "Romania",
     "imid": 54418,
     "creator": "betadina"
+  },
+  {
+    "lat": "52.210134",
+    "lng": "5.969025",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "imid": 54429,
+    "creator": "Cyberjarvis"
+  },
+  {
+    "lat": "51.276413",
+    "lng": "1.082237",
+    "city": "Canterbury",
+    "country": "United Kingdom",
+    "imid": 54427,
+    "creator": "EpicGinger"
+  },
+  {
+    "lat": "49.77996",
+    "lng": "18.429994",
+    "city": "Havířov",
+    "country": "Czech Republic",
+    "imid": 54422,
+    "creator": "HerUrCZ"
+  },
+  {
+    "lat": "35.318876",
+    "lng": "139.550814",
+    "city": "Kamakura",
+    "country": "Japan",
+    "imid": 54423,
+    "creator": "SuZ912"
+  },
+  {
+    "lat": "35.451431",
+    "lng": "139.63079",
+    "city": "Yokohama Bayside",
+    "country": "Japan",
+    "imid": 54424,
+    "creator": "absolute119966"
+  },
+  {
+    "lat": "-2.200943",
+    "lng": "-79.882101",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "imid": 54431,
+    "creator": "RazorEc"
   }
 ]
