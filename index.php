@@ -3,8 +3,19 @@
 $_file = filter_input(INPUT_GET, 'f', FILTER_SANITIZE_STRING);
 
 $output = [];
-exec('git log -1 --pretty=format:"%H %cd"', $output);
-$eTag   = substr($output[0], 0, strpos($output[0], ' '));
+exec('git log -1 --pretty=format:"%H %cd" --date=iso8601-strict', $output);
+$eTag = substr($output[0], 0, strpos($output[0], ' '));
+$latestCommitDateTime = trim(substr($output[0], strpos($output[0], ' ')));
+
+// iso8601 date
+$lastModifiedDate = DateTime::createFromFormat('c', $latestCommitDateTime);
+if($lastModifiedDate) {
+    $lastModifiedDate->setTimezone(new DateTimeZone('GMT'));
+    // <day-name>, <day> <month> <year> <hour>:<minute>:<second>
+    // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Last-Modified
+    header("Last-Modified: " . $lastModifiedDate->format('D, d M Y H:i:s') . " GMT");
+}
+
 header('ETag: "' . $eTag . '"');
 header("Cache-Control: public, max-age=3600");
 
