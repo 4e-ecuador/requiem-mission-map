@@ -1030,5 +1030,21 @@
     "country": "Japan",
     "imid": 54409,
     "creator": "BYTEE"
+  },
+  {
+    "lat": "35.680554",
+    "lng": "139.471964",
+    "city": "Fuchu",
+    "country": "Japan",
+    "imid": 54414,
+    "creator": "DHINDHIN"
+  },
+  {
+    "lat": "51.49861",
+    "lng": "3.890336",
+    "city": "Goes",
+    "country": "Netherlands",
+    "imid": 54415,
+    "creator": "Captainmichiel"
   }
 ]

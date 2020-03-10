@@ -7,10 +7,10 @@ new L.TileLayer(
 ).addTo(map);
 
 var myIcon = L.icon({
-    iconUrl:      'img/my-icon.png',
-    iconSize:     [22, 36],
-    iconAnchor:   [11, 36],
-    popupAnchor:  [0, -18],
+    iconUrl:     'img/my-icon.png',
+    iconSize:    [22, 36],
+    iconAnchor:  [11, 36],
+    popupAnchor: [0, -18],
 });
 
 const markers = L.markerClusterGroup({disableClusteringAtZoom: 14});
@@ -34,7 +34,7 @@ function roundOneDecimal(num) {
     return (Math.round(num * 10) / 10);
 }
 
-$.get('missions.json', {v: '3'}, function (data) {
+$.get('missions.json', {v: '4'}, function (data) {
     let chartInfo = [];
     $('#mission-counter').html(data.length);
     $(data).each(function () {
