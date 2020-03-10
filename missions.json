@@ -1126,5 +1126,29 @@
     "country": "Germany",
     "imid": 54437,
     "creator": "SayoSenpai"
+  },
+  {
+    "lat": "5.388313",
+    "lng": "100.308743",
+    "city": "Penang",
+    "country": "Malaysia",
+    "imid": 54445,
+    "creator": "Saltedeggfries"
+  },
+  {
+    "lat": "49.448408",
+    "lng": "1.099924",
+    "city": "Rouen",
+    "country": "France",
+    "imid": 54443,
+    "creator": "Nenette76"
+  },
+  {
+    "lat": "50.384917",
+    "lng": "8.063389",
+    "city": "Limburg an der Lahn",
+    "country": "Germany",
+    "imid": 54441,
+    "creator": "jopewe7777"
   }
 ]
