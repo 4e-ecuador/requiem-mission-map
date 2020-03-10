@@ -1110,5 +1110,21 @@
     "country": "Ecuador",
     "imid": 54431,
     "creator": "RazorEc"
+  },
+  {
+    "lat": "44.449486",
+    "lng": "26.088097",
+    "city": "Bucharest II",
+    "country": "Romania",
+    "imid": 54439,
+    "creator": "Xenador"
+  },
+  {
+    "lat": "49.999062",
+    "lng": "8.272641",
+    "city": "Mainz",
+    "country": "Germany",
+    "imid": 54437,
+    "creator": "SayoSenpai"
   }
 ]
