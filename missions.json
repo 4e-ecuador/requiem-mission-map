@@ -1046,5 +1046,21 @@
     "country": "Netherlands",
     "imid": 54415,
     "creator": "Captainmichiel"
+  },
+  {
+    "lat": "37.628575",
+    "lng": "138.97374",
+    "city": "Niigata Sanjo-city",
+    "country": "Japan",
+    "imid": 54417,
+    "creator": "iori7redr"
+  },
+  {
+    "lat": "45.754017",
+    "lng": "21.225819",
+    "city": "Timisoara",
+    "country": "Romania",
+    "imid": 54418,
+    "creator": "betadina"
   }
 ]
