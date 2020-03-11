@@ -1150,5 +1150,29 @@
     "country": "Germany",
     "imid": 54441,
     "creator": "jopewe7777"
+  },
+  {
+    "lat": "49.293434",
+    "lng": "8.699172",
+    "city": "Wiesloch",
+    "country": "Germany",
+    "imid": 54460,
+    "creator": "janc70"
+  },
+  {
+    "lat": "49.749156",
+    "lng": "13.375987",
+    "city": "Pilsen",
+    "country": "Czech Republic",
+    "imid": 54459,
+    "creator": "H0merJay"
+  },
+  {
+    "lat": "33.320296",
+    "lng": "130.501583",
+    "city": "Fukuoka Kurume",
+    "country": "Japan",
+    "imid": 54454,
+    "creator": "tomatowk"
   }
 ]
