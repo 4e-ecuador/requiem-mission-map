@@ -1230,5 +1230,13 @@
     "country": "Germany",
     "imid": 54485,
     "creator": "Nasgorian"
+  },
+  {
+    "lat": "48.782229",
+    "lng": "9.18191",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "imid": 54486,
+    "creator": "KirillDE"
   }
 ]
