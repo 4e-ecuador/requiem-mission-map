@@ -1222,5 +1222,13 @@
     "country": "Sweden",
     "imid": 54470,
     "creator": "stnigatan"
+  },
+  {
+    "lat": "49.542971",
+    "lng": "8.670901",
+    "city": "Weinheim",
+    "country": "Germany",
+    "imid": 54485,
+    "creator": "Nasgorian"
   }
 ]
