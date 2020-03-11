@@ -1174,5 +1174,29 @@
     "country": "Japan",
     "imid": 54454,
     "creator": "tomatowk"
+  },
+  {
+    "lat": "35.018436",
+    "lng": "135.681179",
+    "city": "Kyoto",
+    "country": "Japan",
+    "imid": 54465,
+    "creator": "arau3"
+  },
+  {
+    "lat": "36.559387",
+    "lng": "139.897888",
+    "city": "Utsunomiya",
+    "country": "Japan",
+    "imid": 54461,
+    "creator": "spread999"
+  },
+  {
+    "lat": "51.815148",
+    "lng": "4.667223",
+    "city": "Dordrecht",
+    "country": "Netherlands",
+    "imid": 54463,
+    "creator": "Naoma81"
   }
 ]

@@ -44,10 +44,7 @@ if(empty($_file)) {
     die();
 }
 if($_file === 'mission-list') {
-    if($lastModifiedDate) {
-        header("date: " . $lastModifiedDate->format('D, d M Y H:i:s') . " GMT");
-    }
-    header("Content-type: text/javascript");
+    header("Content-type: application/json");
     header("Content-Disposition: inline; filename=\"missions.json\"");
     $content = file_get_contents('missions.json');
     print json_encode(json_decode($content));
