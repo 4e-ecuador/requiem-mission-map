@@ -1206,5 +1206,21 @@
     "country": "Japan",
     "imid": 54466,
     "creator": "mSchnauzer"
+  },
+  {
+    "lat": "-22.086157",
+    "lng": "-70.195752",
+    "city": "Tocopilla",
+    "country": "Chile",
+    "imid": 54484,
+    "creator": "Sherlok76"
+  },
+  {
+    "lat": "59.319646",
+    "lng": "18.06782",
+    "city": "Stockholm Södermalm",
+    "country": "Sweden",
+    "imid": 54470,
+    "creator": "stnigatan"
   }
 ]
