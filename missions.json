@@ -1318,5 +1318,37 @@
     "country": "Japan",
     "imid": 54517,
     "creator": "k32ru"
+  },
+  {
+    "lat": "34.397725",
+    "lng": "132.476028",
+    "city": "Hiroshima",
+    "country": "Japan",
+    "imid": 54521,
+    "creator": "k32ru"
+  },
+  {
+    "lat": "35.086928",
+    "lng": "137.156273",
+    "city": "Toyota",
+    "country": "Japan",
+    "imid": 54523,
+    "creator": "zyandararin"
+  },
+  {
+    "lat": "-33.042294",
+    "lng": "-71.375112",
+    "city": "Villa Alemana",
+    "country": "Chile",
+    "imid": 54526,
+    "creator": "chaniitapaz"
+  },
+  {
+    "lat": "-33.05022",
+    "lng": "-71.442058",
+    "city": "Quilpué",
+    "country": "Chile",
+    "imid": 54527,
+    "creator": "Rebirxtsx"
   }
 ]
