@@ -1302,5 +1302,13 @@
     "country": "Germany",
     "imid": 54515,
     "creator": "Dativ"
+  },
+  {
+    "lat": "39.703586",
+    "lng": "141.142964",
+    "city": "Morioka",
+    "country": "Japan",
+    "imid": 54513,
+    "creator": "HiroAPP"
   }
 ]
