@@ -2,6 +2,8 @@
 
 namespace sgr;
 
+use DateTime;
+
 class header
 {
     private $_eTag;

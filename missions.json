@@ -1350,5 +1350,21 @@
     "country": "Chile",
     "imid": 54527,
     "creator": "Rebirxtsx"
+  },
+  {
+    "lat": "-33.023513",
+    "lng": "-71.552179",
+    "city": "Viña Del Mar",
+    "country": "Chile",
+    "imid": 54528,
+    "creator": "ChicoDelPortico"
+  },
+  {
+    "lat": "-32.828483",
+    "lng": "-71.22807",
+    "city": "La Cruz",
+    "country": "Chile",
+    "imid": 54529,
+    "creator": "gutihollows"
   }
 ]
