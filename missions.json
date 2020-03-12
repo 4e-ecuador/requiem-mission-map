@@ -1218,7 +1218,7 @@
   {
     "lat": "59.319646",
     "lng": "18.06782",
-    "city": "Stockholm Södermalm",
+    "city": "Stockholm - Södermalm",
     "country": "Sweden",
     "imid": 54470,
     "creator": "stnigatan"
@@ -1238,5 +1238,69 @@
     "country": "Germany",
     "imid": 54486,
     "creator": "KirillDE"
+  },
+  {
+    "lat": "49.019456",
+    "lng": "12.097637",
+    "city": "Regensburg - Dom",
+    "country": "Germany",
+    "imid": 54493,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "48.972661",
+    "lng": "13.136767",
+    "city": "Regen",
+    "country": "Germany",
+    "imid": 54494,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "49.017008",
+    "lng": "13.229918",
+    "city": "Zwiesel",
+    "country": "Germany",
+    "imid": 54491,
+    "creator": "EternalFlame94"
+  },
+  {
+    "lat": "56.158268",
+    "lng": "10.205758",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "imid": 54511,
+    "creator": "ingresnyx"
+  },
+  {
+    "lat": "-38.740243",
+    "lng": "-72.585154",
+    "city": "Temuco",
+    "country": "Chile",
+    "imid": 54492,
+    "creator": "jemm1982"
+  },
+  {
+    "lat": "33.589333",
+    "lng": "130.419165",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "imid": 54504,
+    "creator": "masa307"
+  },
+  {
+    "lat": "38.260278",
+    "lng": "140.856303",
+    "city": "Kawauchi Hagi Hall",
+    "country": "Japan",
+    "imid": 54510,
+    "creator": "jaicat"
+  },
+  {
+    "lat": "51.512365",
+    "lng": "10.258199",
+    "city": "Duderstadt",
+    "country": "Germany",
+    "imid": 54515,
+    "creator": "Dativ"
   }
 ]
