@@ -1462,5 +1462,13 @@
     "country": "France",
     "imid": 54549,
     "creator": "JiefSourd"
+  },
+  {
+    "lat": "35.37843",
+    "lng": "136.26465",
+    "city": "Nagahama",
+    "country": "Japan",
+    "imid": 54552,
+    "creator": "ysaki"
   }
 ]
