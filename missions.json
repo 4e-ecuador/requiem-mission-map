@@ -1430,5 +1430,37 @@
     "country": "Japan",
     "imid": 54542,
     "creator": "TackerBomb"
+  },
+  {
+    "lat": "35.698711",
+    "lng": "139.771659",
+    "city": "Akihabara",
+    "country": "Japan",
+    "imid": 54548,
+    "creator": "unyyyuuuuuu"
+  },
+  {
+    "lat": "35.12588",
+    "lng": "138.911753",
+    "city": "Mishima",
+    "country": "Japan",
+    "imid": 54550,
+    "creator": "ysaki"
+  },
+  {
+    "lat": "35.28018",
+    "lng": "139.661955",
+    "city": "Yokosuka",
+    "country": "Japan",
+    "imid": 54551,
+    "creator": "ysaki"
+  },
+  {
+    "lat": "44.844504",
+    "lng": "-0.571116",
+    "city": "Bordeaux",
+    "country": "France",
+    "imid": 54549,
+    "creator": "JiefSourd"
   }
 ]
