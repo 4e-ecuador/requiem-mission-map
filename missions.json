@@ -1470,5 +1470,21 @@
     "country": "Japan",
     "imid": 54552,
     "creator": "ysaki"
+  },
+  {
+    "lat": "59.33497",
+    "lng": "18.073489",
+    "city": "Stockholm City",
+    "country": "Sweden",
+    "imid": 54556,
+    "creator": "stnigatan"
+  },
+  {
+    "lat": "-40.339526",
+    "lng": "-72.941693",
+    "city": "Rio Bueno",
+    "country": "Chile",
+    "imid": 54553,
+    "creator": "SuperMiau"
   }
 ]
