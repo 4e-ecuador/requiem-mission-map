@@ -1486,5 +1486,21 @@
     "country": "Chile",
     "imid": 54553,
     "creator": "SuperMiau"
+  },
+  {
+    "lat": "35.037327",
+    "lng": "135.979982",
+    "city": "Ritto",
+    "country": "Japan",
+    "imid": 54558,
+    "creator": "kentaroly"
+  },
+  {
+    "lat": "59.331221",
+    "lng": "18.045892",
+    "city": "Stockholm Kungsholmen",
+    "country": "Sweden",
+    "imid": 54557,
+    "creator": "stnigatan"
   }
 ]
