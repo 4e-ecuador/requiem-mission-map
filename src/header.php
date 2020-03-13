@@ -9,11 +9,12 @@ class header
     private $_eTag;
     private $_lastModDate;
 
-    public function __construct() {
-        $output = [];
-        exec('git log -1 --pretty=format:"%H %cd" --date=iso8601-strict', $output);
-        $eTag = substr($output[0], 0, strpos($output[0], ' '));
-        $latestCommitDateTime = trim(substr($output[0], strpos($output[0], ' ')));
+    public function __construct()
+    {
+        $gitLogString = $this->getGitLogString();
+
+        $gitCommitHash        = substr($gitLogString, 0, strpos($gitLogString, ' '));
+        $latestCommitDateTime = trim(substr($gitLogString, strpos($gitLogString, ' ')));
 
         // iso8601 date
         $lastModifiedDate = DateTime::createFromFormat('c', $latestCommitDateTime);
@@ -24,11 +25,22 @@ class header
             header("Last-Modified: " . $lastModifiedDate->format('D, d M Y H:i:s') . " GMT");
         }
 
-        header('ETag: "' . $eTag . '"');
+        header('ETag: "' . $gitCommitHash . '"');
         header("Cache-Control: public, max-age=3600");
 
-        $this->_eTag        = $eTag;
+        $this->_eTag        = $gitCommitHash;
         $this->_lastModDate = $lastModifiedDate;
+    }
+
+    private function getGitLogString() : string
+    {
+        $output = [];
+        exec('git log -1 --pretty=format:"%H %cd" --date=iso8601-strict', $output);
+        if(count($output) >= 1) {
+
+            return $output[0];
+        }
+        return '';
     }
 
     public function getLastModifiedDate() : DateTime

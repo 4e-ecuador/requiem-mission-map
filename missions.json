@@ -1366,5 +1366,69 @@
     "country": "Chile",
     "imid": 54529,
     "creator": "gutihollows"
+  },
+  {
+    "lat": "52.080158",
+    "lng": "4.322776",
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "imid": 54536,
+    "creator": "XIOSUUSKE"
+  },
+  {
+    "lat": "-40.578441",
+    "lng": "-73.16481",
+    "city": "Osorno",
+    "country": "Chile",
+    "imid": 54537,
+    "creator": "SuperMiau"
+  },
+  {
+    "lat": "-41.471921",
+    "lng": "-72.937998",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "imid": 54538,
+    "creator": "SuperMiau"
+  },
+  {
+    "lat": "34.033263",
+    "lng": "131.193514",
+    "city": "Sanyo-Onoda",
+    "country": "Japan",
+    "imid": 54540,
+    "creator": "mSchnauzer"
+  },
+  {
+    "lat": "34.66525",
+    "lng": "135.500611",
+    "city": "Osaka - Namba Parks",
+    "country": "Japan",
+    "imid": 54541,
+    "creator": "unyyyuuuuuu"
+  },
+  {
+    "lat": "35.906943",
+    "lng": "139.482499",
+    "city": "Kawagoe",
+    "country": "Japan",
+    "imid": 54544,
+    "creator": "island1222"
+  },
+  {
+    "lat": "36.083086",
+    "lng": "140.111718",
+    "city": "Tsukuba",
+    "country": "Japan",
+    "imid": 54543,
+    "creator": "ysaki"
+  },
+  {
+    "lat": "34.872195",
+    "lng": "138.317968",
+    "city": "Yaizu",
+    "country": "Japan",
+    "imid": 54542,
+    "creator": "TackerBomb"
   }
 ]

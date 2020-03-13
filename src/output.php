@@ -32,7 +32,7 @@ class output
 
     public function outputJson($filename)
     {
-        $this->javascriptHeader($filename);
+        $this->jsonHeader($filename);
 
         $content = file_get_contents($filename);
 
@@ -41,7 +41,7 @@ class output
 
     public function outputJs($clearCache = false)
     {
-        $sourcePath = 'js/requiem-munich.js';
+        $sourcePath   = 'js/requiem-munich.js';
         $minifiedPath = 'js/requiem-munich.min.js';
         if(!file_exists($minifiedPath) || $clearCache) {
             $minifier = new Minify\JS($sourcePath);
@@ -57,7 +57,7 @@ class output
 
     public function outputCss($clearCache = false)
     {
-        $sourcePath = 'css/requiem-munich.css';
+        $sourcePath   = 'css/requiem-munich.css';
         $minifiedPath = 'css/requiem-munich.min.css';
         if(!file_exists($minifiedPath) || $clearCache) {
             $minifier = new Minify\CSS($sourcePath);

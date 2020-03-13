@@ -2,7 +2,7 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-$_file = filter_input(INPUT_GET, 'f', FILTER_SANITIZE_STRING);
+$_file   = filter_input(INPUT_GET, 'f', FILTER_SANITIZE_STRING);
 
 $_output = new sgr\output();
 $_header = new sgr\header();
