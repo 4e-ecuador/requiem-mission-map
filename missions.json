@@ -1574,5 +1574,21 @@
     "country": "France",
     "imid": 54589,
     "creator": "Shyzus"
+  },
+  {
+    "lat": "35.156045",
+    "lng": "136.917403",
+    "city": "Nagoya - Tsuruma Park",
+    "country": "Japan",
+    "imid": 54592,
+    "creator": "ikepon78"
+  },
+  {
+    "lat": "35.53531",
+    "lng": "139.589112",
+    "city": "Yokohama - Nakamachidai",
+    "country": "Japan",
+    "imid": 54595,
+    "creator": "SuperDurandal"
   }
 ]
