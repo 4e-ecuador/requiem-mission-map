@@ -1590,5 +1590,13 @@
     "country": "Japan",
     "imid": 54595,
     "creator": "SuperDurandal"
+  },
+  {
+    "lat": "-33.524712",
+    "lng": "-70.796786",
+    "city": "Maipu",
+    "country": "Chile",
+    "imid": 54599,
+    "creator": "drent01"
   }
 ]
