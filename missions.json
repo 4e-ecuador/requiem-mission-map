@@ -1502,5 +1502,77 @@
     "country": "Sweden",
     "imid": 54557,
     "creator": "stnigatan"
+  },
+  {
+    "lat": "-37.090406",
+    "lng": "-73.154169",
+    "city": "Lota",
+    "country": "Chile",
+    "imid": 54560,
+    "creator": "YukiOnna49"
+  },
+  {
+    "lat": "-28.57479",
+    "lng": "-70.761208",
+    "city": "Vallenar",
+    "country": "Chile",
+    "imid": 54564,
+    "creator": "luchowolf"
+  },
+  {
+    "lat": "-1.077351",
+    "lng": "-80.459656",
+    "city": "Portoviejo Rock City",
+    "country": "Ecuador",
+    "imid": 54567,
+    "creator": "GantsMarley"
+  },
+  {
+    "lat": "-34.438327",
+    "lng": "-71.079236",
+    "city": "San Vicente",
+    "country": "Chile",
+    "imid": 54571,
+    "creator": "elkawai"
+  },
+  {
+    "lat": "-34.652763",
+    "lng": "-71.900962",
+    "city": "Paredones",
+    "country": "Chile",
+    "imid": 54572,
+    "creator": "elkawai"
+  },
+  {
+    "lat": "46.204947",
+    "lng": "6.150993",
+    "city": "Genève",
+    "country": "Switzerland",
+    "imid": 54575,
+    "creator": "Shogun79"
+  },
+  {
+    "lat": "43.352806",
+    "lng": "-8.402746",
+    "city": "A Coruña",
+    "country": "Spain",
+    "imid": 54576,
+    "creator": "VicthorSUU"
+  },
+  {
+    "lat": "46.471987",
+    "lng": "30.747864",
+    "city": "Odessa",
+    "country": "Ukraine",
+    "imid": 54582,
+    "creator": "Nygmat"
+  },
+  {
+    "lat": "43.608554",
+    "lng": "3.879429",
+    "city": "Montpellier",
+    "country": "France",
+    "imid": 54589,
+    "creator": "Shyzus"
   }
 ]
