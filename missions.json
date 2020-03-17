@@ -1598,5 +1598,37 @@
     "country": "Chile",
     "imid": 54599,
     "creator": "drent01"
+  },
+  {
+    "lat": "45.159543",
+    "lng": "1.532087",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "imid": 54601,
+    "creator": "Leynou"
+  },
+  {
+    "lat": "-35.426834",
+    "lng": "-71.666367",
+    "city": "Talca",
+    "country": "Chile",
+    "imid": 54609,
+    "creator": "Lincexy"
+  },
+  {
+    "lat": "-20.234413",
+    "lng": "-70.147794",
+    "city": "Iquique",
+    "country": "Chile",
+    "imid": 54617,
+    "creator": "Sherlok76"
+  },
+  {
+    "lat": "-18.478383",
+    "lng": "-70.323674",
+    "city": "Arica",
+    "country": "Chile",
+    "imid": 54619,
+    "creator": "ElektraKunoichi"
   }
 ]
