@@ -1638,5 +1638,37 @@
     "country": "Chile",
     "imid": 54622,
     "creator": "YukiOnna49"
+  },
+  {
+    "lat": "45.830375",
+    "lng": "1.254477",
+    "city": "Limoges",
+    "country": "France",
+    "imid": 54642,
+    "creator": "Leynou"
+  },
+  {
+    "lat": "51.283715",
+    "lng": "6.199768",
+    "city": "Bracht",
+    "country": "Germany",
+    "imid": 54641,
+    "creator": "hek800"
+  },
+  {
+    "lat": "26.227071",
+    "lng": "127.728898",
+    "city": "Naha Shuri",
+    "country": "Japan",
+    "imid": 54630,
+    "creator": "cho03"
+  },
+  {
+    "lat": "-29.905591",
+    "lng": "-71.25029",
+    "city": "La Serena",
+    "country": "Chile",
+    "imid": 54627,
+    "creator": "Vins0"
   }
 ]
