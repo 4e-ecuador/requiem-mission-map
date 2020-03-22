@@ -1670,5 +1670,12 @@
     "country": "Chile",
     "imid": 54627,
     "creator": "Vins0"
-  }
+  },{
+ "lat": "-34.164736",
+"lng": "-70.744974",
+"city":"Rancagua",
+"country":"Chile",
+"imid":54670,
+"creator":"mcavila1279"
+ }
 ]
