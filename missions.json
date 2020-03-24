@@ -1670,12 +1670,37 @@
     "country": "Chile",
     "imid": 54627,
     "creator": "Vins0"
-  },{
- "lat": "-34.164736",
-"lng": "-70.744974",
-"city":"Rancagua",
-"country":"Chile",
-"imid":54670,
-"creator":"mcavila1279"
- }
+  },
+  {
+    "lat": "-34.164736",
+    "lng": "-70.744974",
+    "city": "Rancagua",
+    "country": "Chile",
+    "imid": 54670,
+    "creator": "mcavila1279"
+  },
+  {
+    "lat": "34.684074",
+    "lng": "135.828571",
+    "city": "Nara",
+    "country": "Japan",
+    "imid": 54681,
+    "creator": "tockey"
+  },
+  {
+    "lat": "-32.984475",
+    "lng": "-71.277845",
+    "city": "Limache",
+    "country": "Chile",
+    "imid": 54679,
+    "creator": "gutihollows"
+  },
+  {
+    "lat": "-32.788265",
+    "lng": "-71.198731",
+    "city": "La Calera",
+    "country": "Chile",
+    "imid": 54678,
+    "creator": "gutihollows"
+  }
 ]
