@@ -1702,5 +1702,29 @@
     "country": "Chile",
     "imid": 54678,
     "creator": "gutihollows"
+  },
+  {
+    "lat": "-34.985738",
+    "lng": "-71.238592",
+    "city": "Curicó",
+    "country": "Chile",
+    "imid": 54688,
+    "creator": "Chocodani"
+  },
+  {
+    "lat": "-35.450286",
+    "lng": "-71.58416",
+    "city": "La Obra",
+    "country": "Chile",
+    "imid": 54687,
+    "creator": "DomiNoLomi"
+  },
+  {
+    "lat": "-20.267575",
+    "lng": "-70.098906",
+    "city": "Alto Hospicio",
+    "country": "Chile",
+    "imid": 54684,
+    "creator": "Sherlok76"
   }
 ]
