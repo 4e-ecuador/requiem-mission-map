@@ -1734,5 +1734,53 @@
     "country": "Chile",
     "imid": 54696,
     "creator": "Chocodani"
+  },
+  {
+    "lat": "35.012525",
+    "lng": "135.782583",
+    "city": "Heian Jingu Shrine",
+    "country": "Japan",
+    "imid": 54737,
+    "creator": "unyyyuuuuuu"
+  },
+  {
+    "lat": "34.637289",
+    "lng": "135.419635",
+    "city": "Osaka - Intex",
+    "country": "Japan",
+    "imid": 54738,
+    "creator": "unyyyuuuuuu"
+  },
+  {
+    "lat": "35.634293",
+    "lng": "139.791744",
+    "city": "Tokoyo - Big Sight",
+    "country": "Japan",
+    "imid": 54739,
+    "creator": "unyyyuuuuuu"
+  },
+  {
+    "lat": "34.692889",
+    "lng": "135.194405",
+    "city": "Kobe Port Tower",
+    "country": "Japan",
+    "imid": 54740,
+    "creator": "unyyyuuuuuu"
+  },
+  {
+    "lat": "35.666814",
+    "lng": "138.567989",
+    "city": "Kofu",
+    "country": "Japan",
+    "imid": 54741,
+    "creator": "kuwppakappa"
+  },
+  {
+    "lat": "33.840369",
+    "lng": "132.75152",
+    "city": "Matsuyama",
+    "country": "Japan",
+    "imid": 54742,
+    "creator": "SetokaCitrus"
   }
 ]
