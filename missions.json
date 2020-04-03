@@ -1782,5 +1782,13 @@
     "country": "Japan",
     "imid": 54742,
     "creator": "SetokaCitrus"
+  },
+  {
+    "lat": "48.035261",
+    "lng": "7.863129",
+    "city": "Gundelfingen",
+    "country": "Germany",
+    "imid": 54767,
+    "creator": "freiburger"
   }
 ]
