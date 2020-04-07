@@ -1790,13 +1790,14 @@
     "country": "Germany",
     "imid": 54767,
     "creator": "freiburger"
-  },{
- "lat": "53.555945",
-"lng": "13.291601",
-"city":"Neubrandenburg",
-"country":"Germany",
-"imid":54769,
-"creator":"BaronVonLoewi"
+  },
+  {
+    "lat": "53.555945",
+    "lng": "13.291601",
+    "city": "Neubrandenburg",
+    "country": "Germany",
+    "imid": 54769,
+    "creator": "BaronVonLoewi"
   },
   {
     "lat": "35.843292",
