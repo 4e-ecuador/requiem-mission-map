@@ -1797,5 +1797,13 @@
 "country":"Germany",
 "imid":54769,
 "creator":"BaronVonLoewi"
- }
+  },
+  {
+    "lat": "35.843292",
+    "lng": "139.800509",
+    "city": "Dokkyo University",
+    "country": "Japan",
+    "imid": 54812,
+    "creator": "ktflcl"
+  }
 ]
