@@ -1806,20 +1806,29 @@
     "country": "Japan",
     "imid": 54812,
     "creator": "ktflcl"
-  },{
- "lat": "-27.361477",
-"lng": "-70.328938",
-"city":"Copiapo",
-"country":"Chile",
-"imid":54907,
-"creator":"MrPopooo"
- }
-,{
- "lat": "33.956622",
-"lng": "130.946685",
-"city":"Shimonoseki",
-"country":"Japan",
-"imid":54835,
-"creator":"mSchnauzer"
- }
+  },
+  {
+    "lat": "-27.361477",
+    "lng": "-70.328938",
+    "city": "Copiapo",
+    "country": "Chile",
+    "imid": 54907,
+    "creator": "MrPopooo"
+  },
+  {
+    "lat": "33.956622",
+    "lng": "130.946685",
+    "city": "Shimonoseki",
+    "country": "Japan",
+    "imid": 54835,
+    "creator": "mSchnauzer"
+  },
+  {
+    "lat": "-25.767206",
+    "lng": "28.302798",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "imid": 55069,
+    "creator": "CapeValkyrie"
+  }
 ]
