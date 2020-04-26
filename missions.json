@@ -1830,5 +1830,12 @@
     "country": "South Africa",
     "imid": 55069,
     "creator": "CapeValkyrie"
-  }
+  },{
+ "lat": "35.165223",
+"lng": "136.898475",
+"city":"Nagoya",
+"country":"Japan",
+"imid":55192,
+"creator":"ikepon78"
+ }
 ]
