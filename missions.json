@@ -1833,9 +1833,24 @@
   },{
  "lat": "35.165223",
 "lng": "136.898475",
-"city":"Nagoya",
+"city":"Nagoya Shirakawa Park",
 "country":"Japan",
 "imid":55192,
 "creator":"ikepon78"
+ },{
+ "lat": "35.700568",
+"lng": "139.414692",
+"city":"Tachikawa",
+"country":"Japan",
+"imid":55202,
+"creator":"13delta"
+ }
+,{
+ "lat": "50.976291",
+"lng": "11.024315",
+"city":"Erfurt",
+"country":"Germany",
+"imid":55204,
+"creator":"xXFredmannXx"
  }
 ]
