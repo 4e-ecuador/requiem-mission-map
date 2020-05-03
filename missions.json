@@ -1852,5 +1852,20 @@
 "country":"Germany",
 "imid":55204,
 "creator":"xXFredmannXx"
+ },{
+ "lat": "48.702682",
+"lng": "13.015553",
+"city":"Osterhofen",
+"country":"Germany",
+"imid":55307,
+"creator":"19mel89"
+ }
+,{
+ "lat": "48.634969",
+"lng": "13.185656",
+"city":"Vilshofen an der Donau",
+"country":"Germany",
+"imid":55309,
+"creator":"19mel89"
  }
 ]
