@@ -1830,42 +1830,45 @@
     "country": "South Africa",
     "imid": 55069,
     "creator": "CapeValkyrie"
-  },{
- "lat": "35.165223",
-"lng": "136.898475",
-"city":"Nagoya Shirakawa Park",
-"country":"Japan",
-"imid":55192,
-"creator":"ikepon78"
- },{
- "lat": "35.700568",
-"lng": "139.414692",
-"city":"Tachikawa",
-"country":"Japan",
-"imid":55202,
-"creator":"13delta"
- }
-,{
- "lat": "50.976291",
-"lng": "11.024315",
-"city":"Erfurt",
-"country":"Germany",
-"imid":55204,
-"creator":"xXFredmannXx"
- },{
- "lat": "48.702682",
-"lng": "13.015553",
-"city":"Osterhofen",
-"country":"Germany",
-"imid":55307,
-"creator":"19mel89"
- }
-,{
- "lat": "48.634969",
-"lng": "13.185656",
-"city":"Vilshofen an der Donau",
-"country":"Germany",
-"imid":55309,
-"creator":"19mel89"
- }
+  },
+  {
+    "lat": "35.165223",
+    "lng": "136.898475",
+    "city": "Nagoya Shirakawa Park",
+    "country": "Japan",
+    "imid": 55192,
+    "creator": "ikepon78"
+  },
+  {
+    "lat": "35.700568",
+    "lng": "139.414692",
+    "city": "Tachikawa",
+    "country": "Japan",
+    "imid": 55202,
+    "creator": "13delta"
+  },
+  {
+    "lat": "50.976291",
+    "lng": "11.024315",
+    "city": "Erfurt",
+    "country": "Germany",
+    "imid": 55204,
+    "creator": "xXFredmannXx"
+  },
+  {
+    "lat": "48.702682",
+    "lng": "13.015553",
+    "city": "Osterhofen",
+    "country": "Germany",
+    "imid": 55307,
+    "creator": "19mel89"
+  },
+  {
+    "lat": "48.634969",
+    "lng": "13.185656",
+    "city": "Vilshofen an der Donau",
+    "country": "Germany",
+    "imid": 55309,
+    "creator": "19mel89"
+  }
 ]
