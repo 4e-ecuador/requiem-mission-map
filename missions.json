@@ -1877,5 +1877,12 @@
 "country":"USA",
 "imid":55444,
 "creator":"MonkeyPelt"
+ },{
+ "lat": "50.048793",
+"lng": "19.927751",
+"city":"Kraków",
+"country":"Poland",
+"imid":55528,
+"creator":"TRYDAL"
  }
 ]
