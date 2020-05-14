@@ -1870,19 +1870,21 @@
     "country": "Germany",
     "imid": 55309,
     "creator": "19mel89"
-  },{
- "lat": "32.23186",
-"lng": "-110.95315",
-"city":"Tucson (Arizona)",
-"country":"USA",
-"imid":55444,
-"creator":"MonkeyPelt"
- },{
- "lat": "50.048793",
-"lng": "19.927751",
-"city":"Kraków",
-"country":"Poland",
-"imid":55528,
-"creator":"TRYDAL"
- }
+  },
+  {
+    "lat": "32.23186",
+    "lng": "-110.95315",
+    "city": "Tucson (Arizona)",
+    "country": "USA",
+    "imid": 55444,
+    "creator": "MonkeyPelt"
+  },
+  {
+    "lat": "50.048793",
+    "lng": "19.927751",
+    "city": "Kraków",
+    "country": "Poland",
+    "imid": 55528,
+    "creator": "TRYDAL"
+  }
 ]
