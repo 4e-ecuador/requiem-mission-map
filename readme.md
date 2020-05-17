@@ -1,4 +1,4 @@
-# Ingress Anomaly Requiem - Munich 2020 (?)
+# Ingress Anomaly Requiem - Munich <del>2020</del> Soon&trade;
 
 ![Logo](img/Visit_Requiem_Munich_06.png)
 
