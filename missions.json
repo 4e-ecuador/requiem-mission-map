@@ -1886,5 +1886,29 @@
     "country": "Poland",
     "imid": 55528,
     "creator": "TRYDAL"
+  },
+  {
+    "lat": "34.155795",
+    "lng": "-118.255265",
+    "city": "Glendale (California)",
+    "country": "USA",
+    "imid": 56954,
+    "creator": "ErrorGirl"
+  },
+  {
+    "lat": "31.584448",
+    "lng": "130.542877",
+    "city": "Kagoshima",
+    "country": "Japan",
+    "imid": 56543,
+    "creator": "unk0mania"
+  },
+  {
+    "lat": "53.350596",
+    "lng": "-6.249501",
+    "city": "Dublin",
+    "country": "Ireland",
+    "imid": 55971,
+    "creator": "AGENTD023C"
   }
 ]
